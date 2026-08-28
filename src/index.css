@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+img {
+  object-fit: cover;
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Hội Khóa K44 NEU Kỷ Niệm 20 Năm Ra Trường",
+  "description": "Trang thông tin và đăng ký chính thức Hội khóa K44 Đại học Kinh tế Quốc dân (2006-2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
