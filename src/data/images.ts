@@ -62,7 +62,7 @@ export const IMAGES = {
     {
       id: 5,
       title: "Dấu Ấn Hai Thập Kỷ Trưởng Thành",
-      image: "https://lh3.googleusercontent.com/d/1m19au_29O0AfYKDLNSR1fexDpaaNEBy1",
+      image: "https://lh3.googleusercontent.com/d/1O_04tAd733Xvxobab-LRVFap66dRTlHd",
       description: "Hành trình 20 năm gắn kết, sẻ chia và đồng hành cùng sự phát triển của đất nước và mái trường NEU."
     },
     {
