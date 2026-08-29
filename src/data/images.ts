@@ -52,6 +52,24 @@ export const IMAGES = {
       title: "Lan Tỏa Giá Trị Tốt Đẹp Cho Cộng Đồng",
       image: "https://lh3.googleusercontent.com/d/1BkhSdY_BYL6heUGWcmHcjAbn7sTmL7Ua",
       description: "Những bước chân tự hào mang thương hiệu NEU, tiếp nối truyền thống rạng rỡ của các thế hệ sinh viên nhà trường."
+    },
+    {
+      id: 4,
+      title: "Tỏa Sáng Tri Thức Và Bản Lĩnh K44",
+      image: "https://lh3.googleusercontent.com/d/1nbHePCjnfaVr92NCCCMZr3cBiBk0Hh3f",
+      description: "Những cựu sinh viên K44 NEU không ngừng vươn lên khẳng định vị thế và lan tỏa năng lượng tích cực."
+    },
+    {
+      id: 5,
+      title: "Dấu Ấn Hai Thập Kỷ Trưởng Thành",
+      image: "https://lh3.googleusercontent.com/d/1m19au_29O0AfYKDLNSR1fexDpaaNEBy1",
+      description: "Hành trình 20 năm gắn kết, sẻ chia và đồng hành cùng sự phát triển của đất nước và mái trường NEU."
+    },
+    {
+      id: 6,
+      title: "Tình Bạn Vẹn Nguyên Theo Năm Tháng",
+      image: "https://lh3.googleusercontent.com/d/15mXZ8UOSfuX_nCgEJOMSNiX4evhmiPHw",
+      description: "Kỷ niệm ngày trở về ngập tràn cảm xúc, nơi tình bạn thời sinh viên tiếp tục được vun đắp và lan tỏa."
     }
   ],
 
